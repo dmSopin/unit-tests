@@ -1,0 +1,22 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "requirejs": "^2.2.0",
+    "requirejs-plugins": "^1.0.2"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-requirejs": "^0.2.6"
+  }
+}
